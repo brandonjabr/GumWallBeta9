@@ -1,0 +1,5 @@
+#include "Pods-Gum Wall-CRToast.xcconfig"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Build" "${PODS_ROOT}/Headers/Build/CRToast" "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/Bolts" "${PODS_ROOT}/Headers/Public/CRToast" "${PODS_ROOT}/Headers/Public/KVNProgress" "${PODS_ROOT}/Headers/Public/Parse"
+OTHER_LDFLAGS = -ObjC
+PODS_ROOT = ${SRCROOT}

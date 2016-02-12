@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="6252" systemVersion="13E28" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="CommentVoteData" representedClassName="CommentVoteData" syncable="YES">
+        <attribute name="commentId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isDownVoted" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="isUpVoted" optional="YES" attributeType="Boolean" syncable="YES"/>
+    </entity>
+    <entity name="VoteData" representedClassName="VoteData" syncable="YES">
+        <attribute name="imageID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isDownVoted" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="isUpVoted" optional="YES" attributeType="Boolean" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="VoteData" positionX="-63" positionY="-18" width="128" height="88"/>
+        <element name="CommentVoteData" positionX="-225" positionY="-126" width="128" height="88"/>
+    </elements>
+</model>

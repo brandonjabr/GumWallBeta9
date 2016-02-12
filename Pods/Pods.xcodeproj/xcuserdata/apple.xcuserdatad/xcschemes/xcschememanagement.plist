@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>PKImageBundle.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Gum Wall-Bolts.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Gum Wall-KVNProgress.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Gum Wall-MONActivityIndicatorView.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Gum Wall-PKImagePicker.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Gum Wall-Parse.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Gum Wall.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>06686237F5BC94F02EA4384B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>550F3A230FBAE77BF7C01921</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5D43DA428D82657139721CA6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8BA493E4E3046EFDC6356A64</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A9A13404E83C46502AED23F7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C27C6B505F3DDA8A7A74499E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F89681D84422B4C2A2FBBEF0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,7 @@
+FRAMEWORK_SEARCH_PATHS = "$(PODS_ROOT)/Parse"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/Bolts" "${PODS_ROOT}/Headers/Public/CRToast" "${PODS_ROOT}/Headers/Public/KVNProgress" "${PODS_ROOT}/Headers/Public/Parse"
+OTHER_CFLAGS = $(inherited) -isystem "${PODS_ROOT}/Headers/Public" -isystem "${PODS_ROOT}/Headers/Public/Bolts" -isystem "${PODS_ROOT}/Headers/Public/CRToast" -isystem "${PODS_ROOT}/Headers/Public/KVNProgress" -isystem "${PODS_ROOT}/Headers/Public/Parse"
+OTHER_LDFLAGS = -ObjC -l"Pods-Gum Wall-Bolts" -l"Pods-Gum Wall-CRToast" -l"Pods-Gum Wall-KVNProgress" -l"Pods-Gum Wall-Parse" -l"sqlite3" -l"z" -framework "AudioToolbox" -framework "CFNetwork" -framework "CoreGraphics" -framework "CoreLocation" -framework "GLKit" -framework "MobileCoreServices" -framework "Parse" -framework "QuartzCore" -framework "Security" -framework "StoreKit" -framework "SystemConfiguration" -weak_framework "Accounts" -weak_framework "Social"
+OTHER_LIBTOOLFLAGS = $(OTHER_LDFLAGS)
+PODS_ROOT = ${SRCROOT}/Pods
